@@ -1,4 +1,4 @@
-'''c
+```c
 
 #include <IRremote.h>
 #include <Wire.h>
