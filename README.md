@@ -5,7 +5,7 @@ This serves dual purposes:
   2. Allows manual navigation using an IR remote to check soil conditions and water specific areas.​
 
 Key Functionalities:
-  1. he soil moisture sensor detects the moisture level, and the system activates the water pump when the soil is dry.
+  1. The soil moisture sensor detects the moisture level, and the system activates the water pump when the soil is dry.
   2. Users can manually control the robot car using an IR remote to navigate and water specific areas.
   3. The LCD screen displays current system status, including soil moisture levels and operational modes.
 
