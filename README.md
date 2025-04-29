@@ -3,3 +3,15 @@ This is a design of a system that uses an Arduino to intelligently control motor
 The whole project was done in Autodesk TinkerCAD.
 
 Project Link - https://shorturl.at/azHra
+
+Components needed for this project -
+1. Arduino Uno R3
+2. 9V Battery
+3. H-bridge Motor Driver
+4. 250 kΩ Potentiometer
+5. Hobby Gearmotor
+6. PCF8574-based, 39 (0x27) LCD 16 x 2 (I2C)
+7. IR sensor
+8. Soil Sensor
+9. DC Motor
+10. Relay SPDT
